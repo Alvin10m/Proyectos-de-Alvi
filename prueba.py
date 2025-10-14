@@ -1,3 +1,5 @@
+print("Bienvenido")
+
 grade = float(input("Enter the student's grade: "))
 
 
