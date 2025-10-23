@@ -1,3 +1,7 @@
+print("Este programa fue realizado por Alvi Manuel González Serrano 2025-0346")
+
+
+
 print("1. Contador con blucle while")
 print("2. Imprimir nuémeros pares con bucle for")
 print("3. Contar los dígitos de un número")
@@ -130,7 +134,7 @@ elif opcion == 10:
 #Salir
 else:
     print("Saliendo del programa. ¡Gracias por usar el programa!")
-    
+
 
 
 
